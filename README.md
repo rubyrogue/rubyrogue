@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there, I'm Rúbia! 👋
+
+<div>
+  <a href="https://github.com/rubyrogue">
+  <img height="180em" scr="https://github-readme-stats.vercel.app/api?username=rubyrogue&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" scr="https://github-readme-stats.vercel.app/api/top-langs/?username=rubyrogue&layout=compact&langs_count=16&theme=dracula"/>
+</div>
 
 <!--
 **rubyrogue/rubyrogue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
