@@ -26,7 +26,10 @@
   <img align="center" height="30" weight="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-plain.svg" />
   <!--<img align="right" height="100em" alt="robin-chan" src=""/>-->
 </div>
-![robin](https://user-images.githubusercontent.com/23266063/181394598-c18c3181-2968-46d0-be94-ff12c02341c7.gif)
+
+
+![robin](https://user-images.githubusercontent.com/23266063/181394923-52497378-7649-443e-a0ea-e40e9b0e8fad.gif)
+
 ##
 
 <div>
