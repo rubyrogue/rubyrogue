@@ -24,7 +24,7 @@
   <img align="center" height="30" weight="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <img align="center" height="30" weight="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
   <img align="center" height="30" weight="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-plain.svg" />
-  <img align="right" height="5em" alt="robin-chan" src="https://www.icegif.com/nico-robin-23/"/>
+  <img align="right" height="200em" alt="robin-chan" src="https://www.icegif.com/nico-robin-23/"/>
 </div>
 
 ##
