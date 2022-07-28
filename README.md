@@ -24,7 +24,7 @@
   <img align="center" height="30" weight="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <img align="center" height="30" weight="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
   <img align="center" height="30" weight="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-plain.svg" />
-  <img align="right" height="160em" alt="nami-san" src="https://c.tenor.com/RXHgyZ8oYL0AAAAM/nami-one.gif"/>
+  <img align="right" height="160em" alt="nami-san" src="https://www.icegif.com/wp-content/uploads/2022/04/icegif-700.gif"/>
 </div>
 
 ##
