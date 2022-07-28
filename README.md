@@ -24,7 +24,7 @@
   <img align="center" height="30" weight="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <img align="center" height="30" weight="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
   <img align="center" height="30" weight="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-plain.svg" />
-  <img align="right" height="160em" alt="nami-san" src="https://i.pinimg.com/originals/1d/ab/a3/1daba3d53c887464eddccf515a2530c0.gif"/>
+  <img align="right" height="160em" alt="nami-san" src="https://www.icegif.com/nico-robin-23/"/>
 </div>
 
 ##
