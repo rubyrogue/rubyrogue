@@ -39,7 +39,7 @@
   </a>
   
   ![Snake animation](https://github.com/rubyrogue/rubyrogue/blob/output/github-contribution-grid-snake.svg)
-  <img align="right" height="100em" alt="robin" src="https://user-images.githubusercontent.com/23266063/181394923-52497378-7649-443e-a0ea-e40e9b0e8fad.gif"/>
+  <img align="right" height="120em" alt="robin" src="https://user-images.githubusercontent.com/23266063/181394923-52497378-7649-443e-a0ea-e40e9b0e8fad.gif"/>
 </div>
 
 <!--
