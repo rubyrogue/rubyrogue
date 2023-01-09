@@ -38,7 +38,7 @@
   <a href="https://www.instagram.com/rubiamarx/"/><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
   
-  ![Snake animation](https://github.com/rubyrogue/rubyrogue/blob/output/github-contribution-grid-snake.svg)
+  ![snake gif](https://github.com/rubyrogue/rubyrogue/blob/output/github-contribution-grid-snake.gif)
   <!--<img align="right" height="150em" alt="robin" src="https://user-images.githubusercontent.com/23266063/181394923-52497378-7649-443e-a0ea-e40e9b0e8fad.gif"/>-->
 </div>
 🔭 Currently working at T.R.I. (https://www.tri-cs.com/) as Oracle Technical Consultant.
