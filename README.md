@@ -41,7 +41,7 @@
   ![Snake animation](https://github.com/rubyrogue/rubyrogue/blob/output/github-contribution-grid-snake.svg)
   <!--<img align="right" height="150em" alt="robin" src="https://user-images.githubusercontent.com/23266063/181394923-52497378-7649-443e-a0ea-e40e9b0e8fad.gif"/>-->
 </div>
-🔭 Currently working on T.R.I. (https://www.tri-cs.com/) as Oracle Technical Consultant.
+🔭 Currently working at T.R.I. (https://www.tri-cs.com/) as Oracle Technical Consultant.
 <!--
 **rubyrogue/rubyrogue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
